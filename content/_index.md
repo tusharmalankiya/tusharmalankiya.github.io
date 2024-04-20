@@ -189,8 +189,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Embedded Coding
-          tag: Embedded Coding
+        - name: Embedded
+          tag: Embedded
         - name: Programming
           tag: Programming
         - name: Others
