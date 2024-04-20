@@ -9,6 +9,6 @@ date: '2018-11-17T00:00:00Z'
 external_link: 'https://github.com/tusharmalankiya/Line-Follower-Robot'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ''
   focal_point: Smart
 ---
