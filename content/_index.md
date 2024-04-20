@@ -189,10 +189,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Embedded Coding
+          tag: Embedded Coding
+        - name: Programming
+          tag: Programming
+        - name: Full-Stack Web Development
+          tag: Full-Stack Web Development
+        - name: Others
+          tag: Others
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
