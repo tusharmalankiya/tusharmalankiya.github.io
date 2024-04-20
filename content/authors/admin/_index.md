@@ -70,6 +70,31 @@ skills:
         percent: 90
         icon: database
         icon_pack: fas
+      - name: MongoDB
+        description: ''
+        percent: 80
+        icon: database
+        icon_pack: fab
+      - name: NodeJS
+        description: ''
+        percent: 80
+        icon: node-js
+        icon_pack: fab
+      - name: React
+        description: ''
+        percent: 80
+        icon: react
+        icon_pack: fab
+      - name: Linux
+        description: ''
+        percent: 80
+        icon: linux
+        icon_pack: fab
+      - name: Git
+        description: ''
+        percent: 80
+        icon: git-alt
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -79,15 +104,15 @@ skills:
         percent: 100
         icon: book-open-reader
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Watching Movies/TV Shows
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: film
+        icon_pack: fas
+      - name: Walking
+        description: ''
+        percent: 80
+        icon: person-walking
         icon_pack: fas
 
 # Social/Academic Networking
