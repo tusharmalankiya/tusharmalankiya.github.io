@@ -21,7 +21,7 @@ role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: S.V.N.I.T, Surat
+  - name: SVNIT, Surat
     url: https://www.svnit.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
