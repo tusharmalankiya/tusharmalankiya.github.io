@@ -102,7 +102,7 @@ sections:
           date_end: ''
           date_start: '2022-12-10'
           description: ''
-          icon: udemy
+          icon: udemy-icon
           organization: Udemy
           organization_url: https://www.udemy.com
           title: The Complete 2023 Web Development Bookcamp
@@ -126,8 +126,8 @@ sections:
         #   title: 'Object-Oriented Programming in R'
         #   url: ''
         - certificate_url: ''
-          date_end: '2018-11-18'
-          date_start: '2018-11-17'
+          date_end: ''
+          date_start: '2018-11-18'
           description: ''
           icon: drishti svnit
           organization: Drishti, SVNIT
