@@ -74,7 +74,7 @@ skills:
         description: ''
         percent: 80
         icon: database
-        icon_pack: fab
+        icon_pack: fas
       - name: NodeJS
         description: ''
         percent: 80
