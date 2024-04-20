@@ -193,8 +193,6 @@ sections:
           tag: Embedded Coding
         - name: Programming
           tag: Programming
-        - name: Full-Stack Web Development
-          tag: Full-Stack Web Development
         - name: Others
           tag: Others
     design:
