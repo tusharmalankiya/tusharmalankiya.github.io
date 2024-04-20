@@ -129,10 +129,19 @@ sections:
           date_end: ''
           date_start: '2018-11-18'
           description: ''
-          icon: drishti svnit
+          icon: svnit
           organization: Drishti, SVNIT
           organization_url: ''
           title: 2nd Rank in the 'FLASH' of Grand Robo Prix Competition
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-02-23'
+          description: ''
+          icon: svnit
+          organization: Sparsh, SVNIT
+          organization_url: ''
+          title: 2nd Place in Mobile Controlled Robotics Competition
           url: ''
     design:
       columns: '2'
