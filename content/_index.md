@@ -98,15 +98,6 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ''
-          date_end: '2018-11-18'
-          date_start: '2018-11-17'
-          description: ''
-          icon: drishti svnit
-          organization: Drishti, SVNIT
-          organization_url: https://www.datacamp.com
-          title: 2nd Rank in the 'FLASH' of Grand Robo Prix Competition
-          url: ''
         - certificate_url: https://www.udemy.com/certificate/UC-e0318fab-70a3-47b7-97f1-a9005d30c9f5/
           date_end: '2022-12-10'
           date_start: ''
@@ -133,6 +124,15 @@ sections:
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: 'Object-Oriented Programming in R'
+          url: ''
+        - certificate_url: ''
+          date_end: '2018-11-18'
+          date_start: '2018-11-17'
+          description: ''
+          icon: drishti svnit
+          organization: Drishti, SVNIT
+          organization_url: https://www.datacamp.com
+          title: 2nd Rank in the 'FLASH' of Grand Robo Prix Competition
           url: ''
     design:
       columns: '2'
