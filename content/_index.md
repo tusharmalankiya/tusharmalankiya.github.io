@@ -111,7 +111,7 @@ sections:
           date_end: ''
           date_start: '2020-11-27'
           description: ''
-          icon: startupindia
+          icon: startup-india
           organization: Startup India
           organization_url: https://www.startupindia.gov.in/
           title: Startup India Learning Program
@@ -131,7 +131,7 @@ sections:
           description: ''
           icon: drishti svnit
           organization: Drishti, SVNIT
-          organization_url: https://www.datacamp.com
+          organization_url: ''
           title: 2nd Rank in the 'FLASH' of Grand Robo Prix Competition
           url: ''
     design:
