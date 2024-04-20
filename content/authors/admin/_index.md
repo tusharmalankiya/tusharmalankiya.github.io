@@ -98,7 +98,7 @@ skills:
       - name: AWS
         description: ''
         percent: 80
-        icon: git-alt
+        icon: aws
         icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
