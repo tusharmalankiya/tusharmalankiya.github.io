@@ -92,6 +92,11 @@ skills:
         icon_pack: fab
       - name: Git
         description: ''
+        percent: 85
+        icon: git-alt
+        icon_pack: fab
+      - name: AWS
+        description: ''
         percent: 80
         icon: git-alt
         icon_pack: fab
@@ -104,7 +109,7 @@ skills:
         percent: 100
         icon: book-open-reader
         icon_pack: fas
-      - name: Watching Movies/TV Shows
+      - name: Watching Movies/TV Series
         description: ''
         percent: 80
         icon: film
