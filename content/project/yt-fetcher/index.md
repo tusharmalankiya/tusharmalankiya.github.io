@@ -27,7 +27,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 This is a simple YouTube downloader web application that allows users to download audio and video from YouTube. It consists of a frontend built with React and a backend built with Python.
