@@ -154,7 +154,7 @@ social:
 highlight_name: true
 ---
 
-Hi! I'm just a Techie who loves tinkering with tech stuff and discovering innovative solutions. My Research Interests lie in incorporating renowed technology and tools to solve hazardous world issues such as global warming, pollution, soil infertility, etc. Apart from it, I also enjoy diving into the world of investing and get a glimpse of the business ecosystem.
+Hi! I'm just a Techie who loves tinkering with tech stuff and discovering innovative solutions. My Research Interests lie in incorporating renowed technologies and tools to solve hazardous world issues such as global warming, pollution, soil infertility, etc. Apart from it, I also enjoy diving into the world of investing and get a glimpse of the business ecosystem.
 
 I've finished my undergraduate studies in Electrical Engineering at SVNIT, Surat in India and currenly looking forward to further studies in the field of Computer Science.
 
