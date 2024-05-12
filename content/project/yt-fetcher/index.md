@@ -3,7 +3,7 @@ title: YT-Fetcher
 summary: A web application for downloading audio and video content from YouTube. Built with React front-end and Python back-end.
 tags:
   - Others
-date: '2022-04-20T00:00:00Z'
+date: '2017-04-20T00:00:00Z'
 weight: 3
 
 # Optional external URL for project (replaces project detail page).
