@@ -4,6 +4,7 @@ summary: A wireless robot employed with USART to communicate with bluetooth modu
 tags:
   - Embedded
 date: '2018-11-17T00:00:00Z'
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/tusharmalankiya/Distance-Operated-Droid'
