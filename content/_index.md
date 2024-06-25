@@ -107,7 +107,7 @@ sections:
           organization_url: https://www.udemy.com
           title: The Complete 2023 Web Development Bookcamp
           url: ''
-        - certificate_url: https://www.startupindia.gov.in/
+        - certificate_url: https://www.credential.net/54fbf673-761e-4496-a824-7842ceb86878/
           date_end: ''
           date_start: '2020-11-27'
           description: ''
