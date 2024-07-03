@@ -102,7 +102,7 @@ sections:
           date_end: ''
           date_start: '2024-07-03'
           description: ''
-          icon: Hardvard_University_shield
+          icon: Harvard_University_shield
           organization: Harvard University
           organization_url: https://www.harvard.edu
           title: CS50's Understanding Technology
