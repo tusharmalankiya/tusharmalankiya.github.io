@@ -98,6 +98,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://cs50.harvard.edu/certificates/3d9b17d3-e91b-47a9-bca6-85c74a8d0f6d
+          date_end: ''
+          date_start: '2024-07-03'
+          description: ''
+          icon: Hardvard_University_shield
+          organization: Harvard University
+          organization_url: https://www.harvard.edu
+          title: CS50's Understanding Technology
+          url: ''
         - certificate_url: https://www.udemy.com/certificate/UC-e0318fab-70a3-47b7-97f1-a9005d30c9f5/
           date_end: ''
           date_start: '2022-12-10'
