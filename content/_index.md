@@ -111,7 +111,7 @@ sections:
           date_end: ''
           date_start: '2022-12-10'
           description: ''
-          icon: udemy-icon
+          icon: udemy
           organization: Udemy
           organization_url: https://www.udemy.com
           title: The Complete 2023 Web Development Bookcamp
@@ -138,7 +138,7 @@ sections:
           date_end: ''
           date_start: '2018-11-18'
           description: ''
-          icon: svnit
+          icon: NIT_Surat_Logo
           organization: Drishti, SVNIT
           organization_url: ''
           title: 2nd Rank in the 'FLASH' of Grand Robo Prix Competition
@@ -147,7 +147,7 @@ sections:
           date_end: ''
           date_start: '2019-02-23'
           description: ''
-          icon: svnit
+          icon: NIT_Surat_Logo
           organization: Sparsh, SVNIT
           organization_url: ''
           title: 2nd Place in Mobile Controlled Robotics Competition
