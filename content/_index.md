@@ -111,7 +111,7 @@ sections:
           date_end: ''
           date_start: '2022-12-10'
           description: ''
-          icon: Udemy_logo
+          icon: udemy
           organization: Udemy
           organization_url: https://www.udemy.com
           title: The Complete 2023 Web Development Bookcamp
