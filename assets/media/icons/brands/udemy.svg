@@ -1,12 +1,7 @@
-<svg version="1.1" id="Layer_1" width="25px" height="25px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 30 57.6" style="enable-background:new 0 0 30 57.6;" xml:space="preserve">
- <style type="text/css">
-  .st0{fill:#A435F0;}
- </style>
- <g>
-  <path class="st0" d="M30,17.2L15,8.6L0,17.2V8.6L15,0l15,8.6L30,17.2L30,17.2z">
-  </path>
-  <path d="M0,24.4h7.9v18.9c0,4.9,3.7,7.3,7.1,7.3c3.5,0,7.1-2.4,7.1-7.3V24.4H30v19.4c0,4.5-1.4,8-4.3,10.4
-		c-2.9,2.4-6.4,3.5-10.8,3.5c-4.4,0-7.9-1.2-10.7-3.5C1.4,51.7,0,48.4,0,43.9V24.4z">
-  </path>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56px" height="108px" viewBox="0 0 56 108" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(64.313725%,20.784314%,94.117647%);fill-opacity:1;" d="M 56 32.398438 L 28 16.386719 L 0 32.398438 L 0 16.386719 L 28 0.371094 L 56 16.386719 Z M 56 32.398438 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0 45.808594 L 14.746094 45.808594 L 14.746094 81 C 14.746094 90.125 21.652344 94.59375 28 94.59375 C 34.535156 94.59375 41.253906 90.125 41.253906 81 L 41.253906 45.808594 L 56 45.808594 L 56 81.929688 C 56 90.308594 53.386719 96.828125 47.972656 101.296875 C 42.558594 105.765625 36.027344 107.8125 27.8125 107.8125 C 19.601562 107.8125 13.066406 105.578125 7.839844 101.296875 C 2.613281 96.640625 0 90.496094 0 82.117188 Z M 0 45.808594 "/>
+</g>
 </svg>
