@@ -120,7 +120,7 @@ sections:
           date_end: ''
           date_start: '2020-11-27'
           description: ''
-          icon: startup-india
+          icon: startup_india
           organization: Startup India
           organization_url: https://www.startupindia.gov.in/
           title: Startup India Learning Program
