@@ -111,7 +111,7 @@ sections:
           date_end: ''
           date_start: '2022-12-10'
           description: ''
-          icon: udemy
+          icon: Udemy_logo
           organization: Udemy
           organization_url: https://www.udemy.com
           title: The Complete 2023 Web Development Bookcamp
@@ -120,7 +120,7 @@ sections:
           date_end: ''
           date_start: '2020-11-27'
           description: ''
-          icon: startup_india
+          icon: startup
           organization: Startup India
           organization_url: https://www.startupindia.gov.in/
           title: Startup India Learning Program
