@@ -202,8 +202,8 @@ sections:
           tag: '*'
         - name: Robotics
           tag: Robotics
-        - name: Programming
-          tag: Programming
+        - name: Full-Stack
+          tag: Full-Stack
         - name: Others
           tag: Others
     design:
