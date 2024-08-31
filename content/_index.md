@@ -66,7 +66,7 @@ sections:
         - title: Full-Stack Web Developer
           company: Mark91 Studio
           company_url: ''
-          company_logo: org-gc
+          company_logo: mark91-studio
           location: Surat
           date_start: '2023-04-01'
           date_end: ''
