@@ -103,33 +103,33 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://cs50.harvard.edu/certificates/3d9b17d3-e91b-47a9-bca6-85c74a8d0f6d.png?size=letter
-          date_end: ''
-          date_start: '2024-07-03'
-          description: ''
-          icon: Harvard_University_shield
-          organization: Harvard University
-          organization_url: https://www.harvard.edu
-          title: CS50's Understanding Technology
-          url: ''
-        - certificate_url: https://www.udemy.com/certificate/UC-e0318fab-70a3-47b7-97f1-a9005d30c9f5/
-          date_end: ''
-          date_start: '2022-12-10'
-          description: ''
-          icon: udemy-icon
-          organization: Udemy
-          organization_url: https://www.udemy.com
-          title: The Complete 2023 Web Development Bookcamp
-          url: ''
-        - certificate_url: https://www.credential.net/54fbf673-761e-4496-a824-7842ceb86878/
-          date_end: ''
-          date_start: '2020-11-27'
-          description: ''
-          icon: startup
-          organization: Startup India
-          organization_url: https://www.startupindia.gov.in/
-          title: Startup India Learning Program
-          url: ''
+        # - certificate_url: https://cs50.harvard.edu/certificates/3d9b17d3-e91b-47a9-bca6-85c74a8d0f6d.png?size=letter
+        #   date_end: ''
+        #   date_start: '2024-07-03'
+        #   description: ''
+        #   icon: Harvard_University_shield
+        #   organization: Harvard University
+        #   organization_url: https://www.harvard.edu
+        #   title: CS50's Understanding Technology
+        #   url: ''
+        # - certificate_url: https://www.udemy.com/certificate/UC-e0318fab-70a3-47b7-97f1-a9005d30c9f5/
+        #   date_end: ''
+        #   date_start: '2022-12-10'
+        #   description: ''
+        #   icon: udemy-icon
+        #   organization: Udemy
+        #   organization_url: https://www.udemy.com
+        #   title: The Complete 2023 Web Development Bookcamp
+        #   url: ''
+        # - certificate_url: https://www.credential.net/54fbf673-761e-4496-a824-7842ceb86878/
+        #   date_end: ''
+        #   date_start: '2020-11-27'
+        #   description: ''
+        #   icon: startup
+        #   organization: Startup India
+        #   organization_url: https://www.startupindia.gov.in/
+        #   title: Startup India Learning Program
+        #   url: ''
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
         #   date_start: '2020-07-01'
