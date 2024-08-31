@@ -136,7 +136,7 @@ sections:
         #   organization_url: https://www.datacamp.com
         #   title: 'Object-Oriented Programming in R'
         #   url: ''
-        - certificate_url: ''
+        - certificate_url: 'https://drive.google.com/file/d/1VvI9-DNRQBh5BpoCRqYvthtVhGPoD1Xv/view?usp=sharing'
           date_end: ''
           date_start: '2018-11-18'
           description: ''
