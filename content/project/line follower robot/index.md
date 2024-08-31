@@ -2,7 +2,7 @@
 title: Line Follower Robot
 summary: A microcontroller-based autonomous robot that follows a path using infrared sensors and motor driver.
 tags:
-  - Embedded
+  - Robotics
 date: '2018-11-17T00:00:00Z'
 weight: 1
 
