@@ -200,8 +200,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Embedded
-          tag: Embedded
+        - name: Robotics
+          tag: Robotics
         - name: Programming
           tag: Programming
         - name: Others
