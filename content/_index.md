@@ -78,7 +78,7 @@ sections:
               * Collaborating with cross-functional teams to gather requirements and deliver high-quality software solutions.
               * Performing code reviews, debugging, and optimising web applications for performance and scalability.
               * Ensuring the security and integrity of web applications by applying best practices and industry standards.
-              * Deploying the web applications, managing the database and setting up security.
+              * Deploying the web applications.
         # - title: Professor of Semiconductor Physics
         #   company: University X
         #   company_url: ''
