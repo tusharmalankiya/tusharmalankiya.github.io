@@ -66,15 +66,18 @@ sections:
         - title: Full-Stack Web Developer
           company: Mark91 Studio
           company_url: ''
-          company_logo: mark91-studio
+          company_logo: mark91_studio_logo
           location: Surat
           date_start: '2023-04-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
+              * Designing and implementing user-friendly web interfaces with a focus on responsive design.
+              * Developing and managing server-side applications, databases, and APIs.
+              * Collaborating with cross-functional teams to gather requirements and deliver high-quality software solutions.
+              * Performing code reviews, debugging, and optimising web applications for performance and scalability.
+              * Ensuring the security and integrity of web applications by applying best practices and industry standards.
               * Deploying
         # - title: Professor of Semiconductor Physics
         #   company: University X
