@@ -29,7 +29,7 @@ bio: I'm an Electrical Engineer and a Software Developer who loves discovering i
 
 # Interests to show in About widget
 interests:
-  - Embedded Coding
+  - Robotics
   - Full-Stack Web Development
   - Ethical Hacking
   - Artificial Intelligence
