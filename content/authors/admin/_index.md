@@ -154,9 +154,9 @@ social:
 highlight_name: true
 ---
 
-Hi! I'm just a Techie who loves tinkering with tech stuff and discovering innovative solutions. My Research Interests lie in incorporating renowed technologies and tools to solve hazardous world issues such as global warming, pollution, soil infertility, etc. Apart from it, I also enjoy diving into the world of investing and get a glimpse of the business ecosystem.
+Hi! I'm just a Techie who loves tinkering with tech stuff and discovering innovative solutions. My research interests focus on leveraging cutting-edge technologies and tools to address critical global challenges such as climate change, cybersecurity threats, and data privacy and security. In addition to my technical pursuits, I have a keen interest in investing and gaining insights into the business ecosystem.
 
-I've finished my undergraduate studies in Electrical Engineering at SVNIT, Surat in India and currently looking forward to advance my knowledge in the field of Computer Science.
+I completed my undergraduate studies in Electrical Engineering at SVNIT, Surat, India, and I am now eager to advance my knowledge and expertise in the field of Computer Science.
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
