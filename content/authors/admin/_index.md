@@ -154,7 +154,7 @@ social:
 highlight_name: true
 ---
 
-Hi! I'm just a Techie who loves tinkering with tech stuff and discovering innovative solutions. My research interests focus on leveraging cutting-edge technologies and tools to address critical global challenges such as climate change, cybersecurity threats, and data privacy and security. In addition to my technical pursuits, I have a keen interest in investing and gaining insights into the business ecosystem.
+Hi there! I’m a technology enthusiast passionate about exploring and developing innovative solutions. My research interests focus on leveraging cutting-edge technologies and tools to address critical global challenges such as climate change, cybersecurity threats, and data privacy and security. In addition to my technical pursuits, I have a keen interest in investing and gaining insights into the business ecosystem.
 
 I completed my undergraduate studies in Electrical Engineering at SVNIT, Surat, India, and I am now eager to advance my knowledge and expertise in the field of Computer Science.
 
