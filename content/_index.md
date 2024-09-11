@@ -174,7 +174,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://certificates.cs50.io/3d9b17d3-e91b-47a9-bca6-85c74a8d0f6d.pdf?size=letter
+        - certificate_url: https://cs50.harvard.edu/certificates/f68336ff-d0c1-4cbd-a90c-2612fd891b15.png?size=letter
           date_end: ''
           date_start: '2024-08-30'
           description: ''
