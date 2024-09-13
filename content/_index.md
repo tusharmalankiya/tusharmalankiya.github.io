@@ -146,7 +146,7 @@ sections:
           icon: NIT_Surat_Logo
           organization: Drishti, SVNIT
           organization_url: ''
-          title: 2nd Rank in the 'FLASH' of Grand Robo Prix Competition
+          title: 2nd Place in the 'FLASH' of Grand Robo Prix Competition
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -199,7 +199,7 @@ sections:
           icon: udemy-icon
           organization: Udemy
           organization_url: https://www.udemy.com
-          title: The Complete 2023 Web Development Bookcamp
+          title: The Complete 2023 Web Development Bootcamp
           url: ''
         - certificate_url: https://www.credential.net/54fbf673-761e-4496-a824-7842ceb86878/
           date_end: ''
