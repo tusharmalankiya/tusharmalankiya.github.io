@@ -1,5 +1,5 @@
 ---
-title: Real-Time Chat Applicationn
+title: Real-Time Chat Application
 summary: A real-time chat application using MongoDB, Express.js, React, and Node.js. Implemented user authentication and real-time messaging with WebSocket.
 tags:
   - Full-Stack

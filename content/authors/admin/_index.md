@@ -47,7 +47,7 @@ education:
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
     - course: BTech in Electrical Engineering
-      institution: SVNIT Surat, India
+      institution: SVNIT, Surat
       year: 2022
 
 # Skills
@@ -156,7 +156,7 @@ highlight_name: true
 
 Hi there! I’m a technology enthusiast passionate about exploring and developing innovative solutions. My research interests focus on leveraging cutting-edge technologies and tools to address critical global challenges such as climate change, cybersecurity threats, and data privacy and security. In addition to my technical pursuits, I have a keen interest in investing and gaining insights into the business ecosystem.
 
-I completed my undergraduate studies in Electrical Engineering at SVNIT, Surat, India, and I am now eager to advance my knowledge and expertise in the field of Computer Science.
+<!-- I completed my undergraduate studies in Electrical Engineering at SVNIT, Surat, and I am now eager to advance my knowledge and expertise in the field of Computer Science. -->
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
