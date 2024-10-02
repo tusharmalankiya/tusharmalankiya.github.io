@@ -205,7 +205,7 @@ sections:
           date_end: ''
           date_start: '2020-11-27'
           description: ''
-          icon: startup
+          icon: upgrad-logo
           organization: upGrad
           organization_url: https://www.startupindia.gov.in/
           title: S. I. L. P.
