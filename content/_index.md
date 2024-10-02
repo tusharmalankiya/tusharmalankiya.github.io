@@ -208,7 +208,7 @@ sections:
           icon: startup
           organization: upGrad
           organization_url: https://www.startupindia.gov.in/
-          title: Startup India Learning Program
+          title: S. I. L. P.
           url: ''
     design:
       columns: '2'
