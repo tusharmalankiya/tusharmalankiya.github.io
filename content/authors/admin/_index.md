@@ -62,7 +62,7 @@ skills:
         icon_pack: fab
       - name: C/C++
         description: ''
-        percent: 60
+        percent: 70
         icon: chart-line
         icon_pack: fas
       - name: SQL
